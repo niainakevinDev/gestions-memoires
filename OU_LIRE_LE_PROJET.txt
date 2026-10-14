@@ -1,0 +1,25 @@
+CONTENU DU PROJET
+
+Le projet se trouve dans ce dossier, avec deux parties principales :
+
+FRONTEND (interfaces React)
+  frontend/src/App.jsx
+  frontend/src/pages/
+  frontend/src/pages/admin/
+  frontend/src/pages/encadreur/
+  frontend/src/components/
+
+BACKEND (serveur Node.js / Express)
+  backend/src/server.js
+  backend/src/routes/
+  backend/src/controllers/
+  backend/src/middleware/
+  backend/src/config/
+
+BASE DE DONNEES
+  database/schema.sql
+  database/migrations/
+
+Pour les instructions de démarrage, lire README.md dans ce dossier.
+
+Attention : les fichiers sources sont inclus, mais le projet doit être installé et testé sur la machine locale avec une configuration MySQL valide. Ne remplace pas ta base de données existante par le schéma sans sauvegarde.
