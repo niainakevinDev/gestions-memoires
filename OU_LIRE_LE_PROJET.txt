@@ -22,4 +22,3 @@ BASE DE DONNEES
 
 Pour les instructions de démarrage, lire README.md dans ce dossier.
 
-Attention : les fichiers sources sont inclus, mais le projet doit être installé et testé sur la machine locale avec une configuration MySQL valide. Ne remplace pas ta base de données existante par le schéma sans sauvegarde.
